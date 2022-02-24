@@ -14,5 +14,11 @@ The following is a growing collection of resources and helpful commands to know 
 - [git remote](./Commands/Remote.md)
 - [git push](./commands/PUSH.md)
 - [git pull](./Commands/Pull.md)
+- [git status](./Commands/Status.md)
+- [git clone](./Commands/Clone.md)
 
-
+## External Resources
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/ (Links to an external site.))
+- [git Documentation](https://git-scm.com/docs (Links to an external site.))
+- [gitignore Documentation](https://git-scm.com/docs/gitignore (Links to an external site.))
+- [git Branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell (Links to an external site.))
